@@ -1,0 +1,9 @@
+c:\users\arturo\documents\visual studio 2015\Projects\NepuLogger\NepuLogger\bin\Debug\NepuLogger.exe.config
+c:\users\arturo\documents\visual studio 2015\Projects\NepuLogger\NepuLogger\bin\Debug\NepuLogger.exe
+c:\users\arturo\documents\visual studio 2015\Projects\NepuLogger\NepuLogger\bin\Debug\NepuLogger.pdb
+c:\users\arturo\documents\visual studio 2015\Projects\NepuLogger\NepuLogger\obj\Debug\NepuLogger.csprojResolveAssemblyReference.cache
+c:\users\arturo\documents\visual studio 2015\Projects\NepuLogger\NepuLogger\obj\Debug\NepuLogger.Form1.resources
+c:\users\arturo\documents\visual studio 2015\Projects\NepuLogger\NepuLogger\obj\Debug\NepuLogger.Properties.Resources.resources
+c:\users\arturo\documents\visual studio 2015\Projects\NepuLogger\NepuLogger\obj\Debug\NepuLogger.csproj.GenerateResource.Cache
+c:\users\arturo\documents\visual studio 2015\Projects\NepuLogger\NepuLogger\obj\Debug\NepuLogger.exe
+c:\users\arturo\documents\visual studio 2015\Projects\NepuLogger\NepuLogger\obj\Debug\NepuLogger.pdb
